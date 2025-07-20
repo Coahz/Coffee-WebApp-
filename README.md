@@ -1,6 +1,6 @@
 # Coffee-WebApp-
 Coffee WebApp – OOAD + GitHub Project
-
+ธีรภัทร ทัศน์วรณ์
 บทนำ
 
 โปรเจกต์นี้เป็นตัวอย่างของระบบสั่งเครื่องดื่มออนไลน์สำหรับร้านกาแฟ โดยออกแบบตามหลัก Object-Oriented Analysis and Design (OOAD) ด้วย UML Diagram และสามารถนำไปใช้ในโปรเจกต์จริงร่วมกับ GitHub
